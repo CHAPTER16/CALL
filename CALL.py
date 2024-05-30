@@ -39,7 +39,7 @@ approval_description = ("""
 """)
 
 print("Loading...")
-url = "https://github.com/davidthaw/KILLER12/blob/main/TOOL.txt"
+url = "https://github.com/CHAPTER16/CALL.gitblob/main/TOOL.txt"
 response = requests.get(url)
 approved_users = response.text
 
