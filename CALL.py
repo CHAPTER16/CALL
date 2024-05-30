@@ -39,7 +39,7 @@ approval_description = ("""
 """)
 
 print("Loading...")
-url = "https://github.com/CHAPTER16/MOON.git"
+url = "https://github.com/CHAPTER16/MOON/tree/main/TOOL.txt"
 response = requests.get(url)
 approved_users = response.text
 
