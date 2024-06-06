@@ -34,8 +34,8 @@ approval_description = ("""
 \033[0mplease connect from Facebook or Telegram.
 
 
-\033[0mTelegram acc:  @SiThu164
-\033[0mTelegram page: https://t.me/TZP164
+\033[0mTelegram acc:  Aung pyae phyo
+\033[0mTelegram acc: @Aung3326
 """)
 
 print("Loading...")
